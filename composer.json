@@ -1,0 +1,17 @@
+{
+    "name": "wwi/wwicafepress",
+    "version": "1.0.0",
+    "keywords": ["CafePress"],
+	"homepage": "https://github.com/mcluge/wwicafepress",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Michael Pearson"
+		}
+	],
+    "autoload": {
+        "psr-0": {
+            "WWICafePress\\": "lib/"
+        }
+    }
+}
